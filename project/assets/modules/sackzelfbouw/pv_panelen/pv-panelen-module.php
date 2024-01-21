@@ -14,23 +14,23 @@
     <meta content="Bouw-Energie Admin" name="description" />
     <meta content="Bouw-Energie" name="author" />
     <!-- BEGIN GLOBAL MANDATORY STYLES -->
-    <link href="/assets/fonts/css/open-sans.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/styles/mc/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/styles/mc/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/styles/mc/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/styles/mc/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/fonts/css/open-sans.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/styles/mc/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/styles/mc/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/styles/mc/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/styles/mc/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
     <!-- END GLOBAL MANDATORY STYLES -->
     <!-- BEGIN PAGE LEVEL STYLES -->
     <link href="css/jquery-ui-slider-pips.css" rel="stylesheet" type="text/css" />
     <link href="https://code.jquery.com/ui/1.10.4/themes/flick/jquery-ui.css" rel="stylesheet" type="text/css" />
     <!-- END PAGE LEVEL STYLES -->
     <!-- BEGIN THEME GLOBAL STYLES -->
-    <link href="/assets/styles/mc/global/css/components.min.css" rel="stylesheet" type="text/css" />
-    <link href="/assets/styles/mc/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/styles/mc/global/css/components.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://installatiesector.com/project/assets/styles/mc/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
     <!-- END THEME GLOBAL STYLES -->
     <!-- BEGIN THEME LAYOUT STYLES -->
-    <!-- <link href="https://www.bouw-energie-projects.be/assets/styles/mc/layouts/layout/css/layout.min.css" rel="stylesheet" type="text/css" /> -->
-    <!-- <link href="https://www.bouw-energie-projects.be/assets/css/custom_admin_theme.min.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="https://installatiesector.com/project/assets/styles/mc/layouts/layout/css/layout.min.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="https://installatiesector.com/project/assets/css/custom_admin_theme.min.css" rel="stylesheet" type="text/css" /> -->
     <!-- END THEME LAYOUT STYLES -->
     <link href="img/logo/favicon.ico" rel="shortcut icon" type="image/ico" />
     <!-- BEGIN CUSTOM STYLES -->
